@@ -1,4 +1,4 @@
-Simulador RISC-V RV32I 
+##Simulador RISC-V RV32I 
 
 En testbench.sv cambiar SELECT_CASE para elegir la prueba:
 0 = los cuatro programas
